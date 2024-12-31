@@ -1,66 +1,65 @@
-## 👨‍💻 Hey there! Welcome to my digital playground! 
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=K%20L%20Y%20R%20A%20X&fontSize=72&fontColor=ffffff&animation=fadeIn"/>
 
-I'm a code artist passionate about crafting modern web experiences using cutting-edge technologies. 🎨✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=FiveM+Script+Developer;Ex+Minecraft+Plugin+Dev;Current+Web+Developer;Coffee+%26%26+Code)](https://git.io/typing-svg)
 
-**🛠️ Technologies I Love Working With**
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
-### 🚀 Currently Working On
+<div align="center">
 
-- 🌐 Building scalable web applications with Next.js
-- ⚛️ Exploring the latest React Server Components
-- ⚡ Improving web performance and accessibility
+### Technical Skills & Expertise
 
-### 📚 Learning & Growing 
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,vscode,git,github)](https://github.com/klyrax207)
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<details>
+<summary>Game Development</summary>
+  
+[![Game Dev](https://skillicons.dev/icons?i=lua,java)](https://github.com/klyrax207)
+</details>
+
+<details>
+<summary>Web Development</summary>
+
+**Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css)](https://github.com/klyrax207)
+
+**Backend & Database**  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,graphql)](https://github.com/klyrax207)
+
+**Tools & Deployment**  
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,docker)](https://github.com/klyrax207)
+</details>
+
 </div>
-
-### 🎯 Tools & Environment
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</div>
-
-### 🌟 Connect With Me
-
-<div display="flex">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon!-FF0000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-### ⚡ Fun Fact
-
-I can debug code faster than I can find my keys in the morning! ☕
 
 ---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Klyrax207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Klyrax207&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+### GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klyrax207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
-  <a href="https://github.com/Klyrax207?tab=repositories">
-    <img width="49%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Klyrax207&rank=SECRET,SSS,SS,S,AAA&theme=tokyonight&no-frame=true&column=4" />
-  </a>
-</p>
+![Klyrax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klyrax207&theme=graywhite&hide_border=true&border_radius=15)
+
+![Klyrax's GitHub stats](https://github-readme-stats.vercel.app/api?username=klyrax207&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_title=github/klyrax207/stats&border_radius=15&card_width=495)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=klyrax207&theme=graywhite&hide_border=true&custom_title=klyrax207.\[fav-lang\]&border_radius=15&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### Contribution Activity
+
+[![Klyrax's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=klyrax207&theme=minimal&line=5D5D5D&point=000000&custom_title=contribution+graph&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+### Daily Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
