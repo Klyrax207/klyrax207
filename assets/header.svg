@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="300" fill="#000000"/>
+    <text x="50" y="100" font-family="Arial" font-size="48" fill="#FFFFFF" font-weight="bold">KLYRAX207</text>
+    <text x="50" y="160" font-family="Arial" font-size="24" fill="#808080">Student Developer</text>
+    <text x="50" y="190" font-family="Arial" font-size="24" fill="#808080">Web Development | Software Engineering</text>
+    
+    <!-- Coffee cup icon -->
+    <path d="M950 100 C950 50,1050 50,1050 100 L1050 150 C1050 200,950 200,950 150 Z" fill="#FFFFFF"/>
+    <rect x="1040" y="80" width="30" height="20" rx="10" fill="#FFFFFF"/>
+    
+    <!-- Code symbols -->
+    <text x="850" y="150" font-family="monospace" font-size="72" fill="#4A4A4A">{  }</text>
+    <text x="750" y="200" font-family="monospace" font-size="48" fill="#333333">{ }</text>
+</svg>
